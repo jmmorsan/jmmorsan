@@ -27,10 +27,7 @@
 - 🛠️ Experiencia sólida en el uso de plataformas Cloud como **Google Firebase** (Firestore, Auth) e integración de APIs REST.
 - 🎯 Mi objetivo: Consolidarme laboralmente como desarrollador de software y, más adelante, cursar el Grado en Ingeniería de Software de forma modular.
 - ⚡ Fun fact: Coleccionista de cartas TCG (Pokémon, Dragon Ball), fanático del Betis y gamer (Raging Blast, Monster Hunter, Helldivers 2, CoD... Mucho etc...).
-- <br>
-  <img src="https://img.shields.io/badge/Real_Betis_💚🤍-009A44?style=for-the-badge&logoColor=white" alt="Real Betis" />
-  <img src="https://img.shields.io/badge/Dragon_Ball_🐉-FF6C00?style=for-the-badge&logoColor=white" alt="Dragon Ball" />
-  <img src="https://img.shields.io/badge/Bleach_⚔️-000000?style=for-the-badge&logoColor=white" alt="Bleach" />
+
 
 ---
 
