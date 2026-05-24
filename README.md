@@ -5,7 +5,7 @@
 <h3 align="center">Junior Software Developer | Android & Backend | NTT DATA Intern</h3>
 
 <p align="center">
-  Técnico Superior en Desarrollo de Aplicaciones Multiplataforma (DAM) y Desarrollo de Aplicaciones Web (DAW), apasionado por la creación de soluciones móviles inmersivas y arquitecturas backend robustas.
+  Técnico Superior en Desarrollo de Aplicaciones Multiplataforma (DAM), apasionado por la creación de soluciones móviles inmersivas y arquitecturas backend robustas.
 </p>
 
 <div align="center">
